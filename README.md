@@ -1,4 +1,3 @@
-다음 내용을 `README.md`로 저장하라.
 
 ````markdown
 # streamly-platform
@@ -109,3 +108,4 @@ git add README.md
 git commit -m "docs: add README with setup and usage"
 git push origin main
 ````
+
